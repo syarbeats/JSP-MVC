@@ -1,4 +1,9 @@
 com\cdc\mitrais\model\Customer.class
-com\cdc\mitrais\service\CustomerLookupService.class
-com\cdc\mitrais\controller\ShowBalance.class
+com\cdc\mitrais\controller\RandomNumberServlet.class
+com\cdc\mitrais\model\NameBean.class
 com\cdc\mitrais\service\CustomerSimpleMap.class
+com\cdc\mitrais\service\CustomerLookupService.class
+com\cdc\mitrais\controller\RegistrationServlet.class
+com\cdc\mitrais\controller\ShowBalance.class
+com\cdc\mitrais\model\NumberBean.class
+com\cdc\mitrais\service\RanUtils.class

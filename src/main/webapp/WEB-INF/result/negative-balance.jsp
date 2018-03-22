@@ -17,7 +17,7 @@
 		  </th></tr>
 		</table>
 		<p/>
-		<img src="./images/club.gif" align="left"/>
+		<img src="./img/club.gif" align="left"/>
 		<h2>Watch out, ${customer.firstName}, we know where you live. </h2>
 		<h2>Pay us the $${customer.balanceNoSign} you owe us before it is too late!</h2> 
 	</div>

@@ -14,7 +14,7 @@
 		  <tr><th>Your Balance</th></tr>
 		</table>
 		<p/>
-		<img src="./images/sailing.gif"/><br clear="all"/>
+		<img src="./img/sailing.gif"/><br clear="all"/>
 		<h2>It is an honor to serve you, ${customer.firstName} ${customer.lastName}!</h2>
 		<h2>
 			Since you are one of our most valued customers, we would like

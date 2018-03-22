@@ -14,7 +14,7 @@
 	  <tr><th>Your Balance</th></tr>
 	</table>
 	<p/>
-	<img src="./images/money.gif" align="left" hspace="20"/>
+	<img src="./img/money.gif" align="left" hspace="20"/>
 	<ul>
 	  <li>First name: ${customer.firstName}</li>
 	  <li>Last name: ${customer.lastName}</li>  

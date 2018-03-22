@@ -10,8 +10,28 @@
   	<description></description>
   	<servlet-class>com.cdc.mitrais.controller.ShowBalance</servlet-class>
   </servlet>
+  <servlet>
+  	<servlet-name>RandomNumberServlet</servlet-name>
+  	<display-name>RandomNumberServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.cdc.mitrais.controller.RandomNumberServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>RegistrationServlet</servlet-name>
+  	<display-name>RegistrationServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.cdc.mitrais.controller.RegistrationServlet</servlet-class>
+  </servlet>
   <servlet-mapping>
   	<servlet-name>ShowBalance</servlet-name>
   	<url-pattern>/ShowBalance</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>RandomNumberServlet</servlet-name>
+  	<url-pattern>/RandomNumberServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>RegistrationServlet</servlet-name>
+  	<url-pattern>/RegistrationServlet</url-pattern>
   </servlet-mapping>
 </web-app>
